@@ -13,7 +13,7 @@
   "paths": {
     "/hello": {
       "get": {
-        "summary": "Say helloooooo",
+        "summary": "Say helloooooo2",
         "responses": {
           "200": {
             "description": "Successful response",
